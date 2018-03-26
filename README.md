@@ -1,15 +1,12 @@
 # RecommendationSystems
-<p>
 This repository contains python implementation of collaborative filtering recommendation systems. The following techniques are used:
-<ul>
-  <li>User based CF - Cosine Similarity</li>
-  <li>User based CF - Pearson Correlation</li>
-  <li>User based CF - Pearson Correlation with Inverse user Frequency</li>
-  <li>User based CF - Pearson Correlation with Case modification</li>
-  <li>Item based CF - Modified Cosine Similarity</li>
-  <li>Ensemble Learning combining User based CF and Item based CF</li>
-</ul>
-<br><br>
+  * User based CF - Cosine Similarity
+  * User based CF - Pearson Correlation
+  * User based CF - Pearson Correlation with Inverse user Frequency
+  * User based CF - Pearson Correlation with Case modification
+  * Item based CF - Modified Cosine Similarity
+  * Ensemble Learning combining User based CF and Item based CF
+
 ## Files details
 ```
   +--- Collaborative_CosineSimilarity.ipynb
