@@ -10,27 +10,29 @@ This repository contains python implementation of collaborative filtering recomm
   <li>Ensemble Learning combining User based CF and Item based CF</li>
 </ul>
 <br><br>
-## Files details <br>
-  <t>+--- Collaborative_CosineSimilarity.ipynb<br>
-  <t>+--- Collaborative_PearsonCorrelation.ipynb<br>
-  <t>+--- Collaborative_PearsonCorrelation-IUF.ipynb<br>
-  <t>+--- Collaborative_PearsonCorrelation-CaseAmplifaication.ipynb<br>
-  <t>+--- ItemCollaborative_AdjustedCosineSimilarity.ipynb<br>
-  <t>+--- EnsembleLearning.ipynb<br>
-  <t>+--- traindata<br>
-    <t><t>+--- train.txt<br>
-  <t>+--- testdata<br>
-    <t><t>+--- test5.txt<br>
-    <t><t>+--- test10.txt<br>
-    <t><t>+--- test20.txt<br>
-  <t>+--- train_ensemble<br>
-    <t><t>+--- test5_1.txt<br>
-    <t><t>+--- test5_2.txt<br>
-    <t><t>+--- test10_1.txt<br>
-    <t><t>+--- test10_2.txt<br>
-    <t><t>+--- test20_1.txt<br>
-    <t><t>+--- test20_2.txt<br>
-  <t>+--- output<br>
-    <t><t>+--- test5.txt<br>
-    <t><t>+--- test10.txt<br>
-    <t><t>+--- test20.txt<br>
+## Files details
+```
+  +--- Collaborative_CosineSimilarity.ipynb
+  +--- Collaborative_PearsonCorrelation.ipynb
+  +--- Collaborative_PearsonCorrelation-IUF.ipynb
+  +--- Collaborative_PearsonCorrelation-CaseAmplifaication.ipynb
+  +--- ItemCollaborative_AdjustedCosineSimilarity.ipynb
+  +--- EnsembleLearning.ipynb
+  +--- traindata
+    +--- train.txt
+  +--- testdata
+    +--- test5.txt
+    +--- test10.txt
+    +--- test20.txt
+  +--- train_ensemble
+    +--- test5_1.txt
+    +--- test5_2.txt
+    +--- test10_1.txt
+    +--- test10_2.txt
+    +--- test20_1.txt
+    +--- test20_2.txt
+  +--- output
+    +--- test5.txt
+    +--- test10.txt
+    +--- test20.txt
+```
