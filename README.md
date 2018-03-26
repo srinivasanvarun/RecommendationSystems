@@ -35,7 +35,7 @@ This repository contains python implementation of collaborative filtering recomm
 ```
 ## Results
 | Collaborative filtering Method | RSME (Given 5 ratings) | RSME (Given 10 ratings) | RSME (Given 20 ratings) | RSME Average |
-| --- | --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: | :---: |
 | `User based - Cosine Similarity` | 0.787 | 0.78 | 0.756 | 0.772 |
 | `User based - Pearson Method` | 0.833 | 0.784 | 0.77 | 0.794 |
 | `User based - Pearson Method with Inverse User Frequency` | 1.035 | 0.94 | 0.963 | 0.981 |
