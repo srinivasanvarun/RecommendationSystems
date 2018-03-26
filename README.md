@@ -10,7 +10,7 @@ This repository contains python implementation of collaborative filtering recomm
   <li>Ensemble Learning combining User based CF and Item based CF</li>
 </ul>
 <br><br>
-## Files details<br>
+## Files details <br>
   <t>+--- Collaborative_CosineSimilarity.ipynb<br>
   <t>+--- Collaborative_PearsonCorrelation.ipynb<br>
   <t>+--- Collaborative_PearsonCorrelation-IUF.ipynb<br>
